@@ -1,3 +1,3 @@
 # Fb-Hackercup-Submissions
 
-Solutions to the Competitive Programming Competition Fb Hackercup organised by Facebook annually.
+The Solutions to Competitive Programming Competition- Fb Hackercup organised by Facebook every year
